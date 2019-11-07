@@ -18,3 +18,9 @@
 1. Socket.IO Server
 
 **Notice:** This module are in developing so, take care when to use in production.
+
+## Source
+This package is an unpublished version of [node-red-contrib-socketio-client](https://github.com/isaacvitor/node-red-contrib-socketio-client) package created by [isaacvitor](https://github.com/isaacvitor) which contains emiter node. \
+There is a [ticket](https://github.com/isaacvitor/node-red-contrib-socketio-client/issues/8)) opened asking for the release that has not been yet answer.
+That's why this package has been published. \
+All credits go to the author and contributors of the original package.
